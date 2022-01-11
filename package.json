@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ma-c-kik/dnm-react-video-cut.git"
+    "url": "git+https://github.com/ma-c-kik/mac-react-video-cut.git"
   },
   "keywords": [],
   "author": "mac(masi)",
@@ -27,9 +27,9 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ma-c-kik/dnm-react-video-cut/issues"
+    "url": "https://github.com/ma-c-kik/mac-react-video-cut/issues"
   },
-  "homepage": "https://github.com/ma-c-kik/dnm-react-video-cut#readme",
+  "homepage": "https://github.com/ma-c-kik/mac-react-video-cut#readme",
   "peerDependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
