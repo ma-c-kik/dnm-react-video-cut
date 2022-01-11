@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from 'react-dom';
-import DnmVideoCut from '../dist/dnm-react-video-cut.es';
+import DnmVideoCut from '../dist/mac-react-video-cut.es';
 import video from './video.mp4';
 import music from './music.wav';
 

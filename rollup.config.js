@@ -4,7 +4,7 @@ import resolve from 'rollup-plugin-node-resolve';
 import commonjs from 'rollup-plugin-commonjs';
 
 const moduleName = 'DnmVideoCut';
-const distName = 'dnm-react-video-cut';
+const distName = 'mac-react-video-cut';
 
 const external = {
     es: [

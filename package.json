@@ -1,9 +1,9 @@
 {
-  "name": "mac-dnm-react-video-cut",
+  "name": "mac-react-video-cut",
   "version": "1.2.23",
-  "description": "",
-  "main": "dist/dnm-react-video-cut.umd.min.js",
-  "module": "dist/dnm-react-video-cut.es.min.js",
+  "description": "`npm install mac-react-video-cut`",
+  "main": "dist/mac-react-video-cut.umd.min.js",
+  "module": "dist/mac-react-video-cut.es.min.js",
   "scripts": {
     "dist:publish": "npm run dist && npm publish && npm run git",
     "git": "git add . && git commit -m",
@@ -17,19 +17,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devdanim/dnm-react-video-cut.git"
+    "url": "git+https://github.com/ma-c-kik/dnm-react-video-cut.git"
   },
   "keywords": [],
-  "author": "devdanim",
+  "author": "mac(masi)",
   "contributors": [
     "keywinf",
     "fadrien"
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devdanim/dnm-react-video-cut/issues"
+    "url": "https://github.com/ma-c-kik/dnm-react-video-cut/issues"
   },
-  "homepage": "https://github.com/devdanim/dnm-react-video-cut#readme",
+  "homepage": "https://github.com/ma-c-kik/dnm-react-video-cut#readme",
   "peerDependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
@@ -61,5 +61,8 @@
     "@emotion/react": "^11.1.4",
     "lodash-es": "^4.17.20",
     "rc-slider": "^9.2.2"
+  },
+  "directories": {
+    "example": "examples"
   }
 }

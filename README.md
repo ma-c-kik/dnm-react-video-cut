@@ -1,3 +1,3 @@
 ## Get started
 
-`npm install dnm-react-video-cut`
+`npm install mac-react-video-cut`
